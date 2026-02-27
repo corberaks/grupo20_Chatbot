@@ -1,4 +1,4 @@
-🔵 FASE 1 – Análisis y Definición Funcional
+🔵 FASE 1 – Análisis de casos de uso e intenciones del chatbot
 
 📖 Descripción de la Fase
 
