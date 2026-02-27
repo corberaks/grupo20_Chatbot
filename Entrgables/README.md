@@ -1,37 +1,6 @@
-🔴 FASE 3 – Implementación, pruebas y refinamiento del chatbot
-
-📖 Descripción de la Fase
-
-Fase enfocada en la implementación completa de flujos funcionales, automatización de registro de solicitudes, ejecución de pruebas conversacionales y refinamiento de la experiencia de usuario.
-
-📦 Entregables de la Fase 3
-
-✅ Versión Funcional del Chatbot
-
-✔ Flujo completo de FAQ
-
-✔ Flujo completo de registro de solicitudes
-
-✔ Integración con almacenamiento (Sheet/BD o correo)
-
-✔ Confirmaciones al usuario
-
-🧪 Matriz de Pruebas Conversacionales
-
-✔ Escenarios de prueba
-
-✔ Casos válidos e inválidos
-
-✔ Manejo de errores
-
-✔ Registro de mejoras aplicadas
-
-🎨 Versión Refinada (UX Conversacional)
-
-✔ Mejoras en redacción de mensajes
-
-✔ Validaciones (correo, teléfono, etc.)
-
-✔ Claridad en preguntas y confirmaciones
-
-✔ Optimización de mensajes fallback
+| Fase       | Entregables Principales                                                                                                             |
+| ---------- | ----------------------------------------------------------------------------------------------------------------------------------- |
+| **Fase 0** | Plan de Recursos Tecnológicos, roles definidos, repositorio creado, canales de comunicación establecidos                            |
+| **Fase 1** | Documento de Análisis, Casos de Uso, Catálogo de Intenciones y Respuestas                                                           |
+| **Fase 2** | Documento de Diseño, Diagramas Conversacionales, Arquitectura del Sistema, Chatbot Base Operativo                                   |
+| **Fase 3** | Versión Funcional del Chatbot (FAQ + Registro), Integración con almacenamiento, Matriz de Pruebas Conversacionales, Refinamiento UX |
