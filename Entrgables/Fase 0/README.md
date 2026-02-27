@@ -6,10 +6,10 @@ Fase inicial enfocada en la organización operativa y técnica del proyecto. Se 
 
 📦 Entregables de la Fase 0
 
-    ✔ Plan de Recursos Tecnológicos
+✔ Plan de Recursos Tecnológicos
 
-    ✔ Definición de roles del equipo (bitácora)
+✔ Definición de roles del equipo (bitácora)
 
-    ✔ Creación del repositorio en GitHub
+✔ Creación del repositorio en GitHub
 
-    ✔ Links de canales de comunicación oficiales
+✔ Links de canales de comunicación oficiales
