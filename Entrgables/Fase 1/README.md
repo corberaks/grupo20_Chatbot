@@ -8,24 +8,24 @@ Fase orientada al análisis del problema, definición del alcance funcional y es
 
 📄 Documento de Análisis
 
-Actores del sistema
+✔ Actores del sistema
 
-Casos de uso principales (FAQ, Consulta, Fallback)
+✔ Casos de uso principales (FAQ, Consulta, Fallback)
 
-Público objetivo
+✔ Público objetivo
 
-Alcance funcional
+✔ Alcance funcional
 
-Limitaciones iniciales
+✔ Limitaciones iniciales
 
 📘 Catálogo Inicial de Intenciones
 
-Definición de intenciones
+✔ Definición de intenciones
 
-Frases de entrenamiento
+✔ Frases de entrenamiento
 
-Respuestas base
+✔ Respuestas base
 
-Mensajes de error y fallback
+✔ Mensajes de error y fallback
 
-Confirmaciones y estructura inicial de diálogo
+✔ Confirmaciones y estructura inicial de diálogo
