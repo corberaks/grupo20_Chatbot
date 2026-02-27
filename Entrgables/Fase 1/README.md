@@ -18,6 +18,7 @@ Fase orientada al análisis del problema, definición del alcance funcional y es
 
 ✔ Limitaciones iniciales
 
+
 📘 Catálogo Inicial de Intenciones
 
 ✔ Definición de intenciones
