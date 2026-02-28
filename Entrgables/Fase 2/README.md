@@ -14,7 +14,7 @@ Fase dedicada al diseño técnico del chatbot, incluyendo diagramas de flujo con
 
 ✔ Definición de puntos de integración
 
-✔ Modelo de almacenamiento (si aplica)
+✔ Modelo de almacenamiento
 
 🤖 Chatbot Base Operativo
 
