@@ -6,17 +6,17 @@ Fase enfocada en la implementación completa de flujos funcionales, automatizaci
 
 📦 Entregables de la Fase 3
 
-✅ Versión Funcional del Chatbot
+Versión Funcional del Chatbot
 
 ✔ Flujo completo de FAQ
 
 ✔ Flujo completo de registro de solicitudes
 
-✔ Integración con almacenamiento (Sheet/BD o correo)
+✔ Integración con almacenamiento
 
 ✔ Confirmaciones al usuario
 
-🧪 Matriz de Pruebas Conversacionales
+Matriz de Pruebas Conversacionales
 
 ✔ Escenarios de prueba
 
@@ -26,7 +26,7 @@ Fase enfocada en la implementación completa de flujos funcionales, automatizaci
 
 ✔ Registro de mejoras aplicadas
 
-🎨 Versión Refinada (UX Conversacional)
+Versión Refinada (UX Conversacional)
 
 ✔ Mejoras en redacción de mensajes
 
